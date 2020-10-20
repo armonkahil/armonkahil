@@ -10,11 +10,12 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Halo, Halo, and more Halo
-
+---
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+---
 ### Connect with me
 
 [<img align="left" alt="armonroberts.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,7 +24,7 @@
 [<img align="left" alt="armonkahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
+<hr/>
 ### Languages and Tools
 <p align="left"></a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">
@@ -33,9 +34,8 @@
 <a href="" target="_blank"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="Pycharm" height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c08647680940bacf35488c2944dfdd9f53e09bd2/icons/pycharm.svg" /> </a><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
-<br />
-<br />
----
+
+<hr>
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armonkahil&show_icons=true&locale=en&layout=compact" alt="armonkahil" /></p>
