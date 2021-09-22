@@ -24,7 +24,9 @@
 ## :zap: GitHub Stats
   
 ![armonkahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armonkahil&count_private=true&include_all_commits&show_icons=true&bg_color=DEG,0B162A,E5463B,ffffff&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)
+
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=armonkahil&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=DEG,0B162A,E5463B,ffffff&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)
+
 [![armonkahil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armonkahil&bg_color=DEG,0B162A,E5463B,ffffff&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)](https://github.com/armonkahil/github-readme-stats)
   
 [website]: https://armonkahil.com
