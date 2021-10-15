@@ -1,6 +1,7 @@
 # Hi there, I'm Armon - aka [armonkahil][website] 👋
 
-[![Website](https://img.shields.io/badge/armonroberts.com-portfolio-orange)](https://armonroberts.com) ![Twitter Follow](https://img.shields.io/twitter/follow/armonkahil?style=social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/armon-roberts1/)
+[![Website](https://img.shields.io/badge/armonroberts.com-portfolio-orange)](https://armonroberts.com) ![Twitter Follow](https://img.shields.io/twitter/follow/armonkahil?style=social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/armon-roberts1/) ![](https://komarev.com/ghpvc/?username=armonkahil&color=orange)
+
 
 ## I'm a Husband, Father, Developer, and Innovator
 
