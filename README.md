@@ -28,7 +28,7 @@
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=armonkahil&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=DEG,0B162A,E5463B&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)
 
-![armonkahil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armonkahil&bg_color=DEG,0B162A,E5463B&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armonkahil&bg_color=DEG,0B162A,E5463B&text_color=FFFFFF&title_color=FFFFFF&icon_color=E5463B)
   
 [website]: https://armonkahil.com
 [internship]: http://capless.io
