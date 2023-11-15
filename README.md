@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Innovator
 
-- 🔭 I just finished my first internship: [Capless.io][internship]!
+- 🔭 I am a Software Engineer for [Bank of America](https:\\www.bankofamerica.com)!
 - 🌱 I’m currently learning Typescript, React Native, AND Angular.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
